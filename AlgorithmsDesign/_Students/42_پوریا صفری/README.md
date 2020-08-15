@@ -8,8 +8,9 @@
 فصل ۳ - حل روابط بازگشتی
 پوریا صفری
 
+  [پوریا صفری]( https://pooriasafari.github.io) 
 آدرس رزومه  :
-  [پوریا صفری]( https://pooriasafari.github.io)  
+ 
 
 
    [آدرس گیت هاب] (https://github.com/pooriasafari)
