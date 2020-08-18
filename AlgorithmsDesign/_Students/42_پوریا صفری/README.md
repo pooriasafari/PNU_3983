@@ -7,11 +7,12 @@
 
 فصل ۳ - حل روابط بازگشتی
 
+<br>
+آدرس رزومه:   پوریا صفری  ( https://pooriasafari.github.io) 
 
-آدرس رزومه: 
-   [پوریا صفری]( https://pooriasafari.github.io) 
-..
-   [آدرس گیت هاب] (https://github.com/pooriasafari)
+
+<br>
+   آدرس گیت هاب: (https://github.com/pooriasafari)
 
 
 لینک فایل 
